@@ -1,4 +1,4 @@
-#  NFT Marketplace (End to End)
+#  NFT Marketplace
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
