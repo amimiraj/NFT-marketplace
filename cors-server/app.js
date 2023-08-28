@@ -14,10 +14,10 @@ app.use(cors({
 
 
 
-app.get('/cors', (req, res) => {
-    res.set('Access-Control-Allow-Origin', 'http://localhost:3000');
-    res.send({ "msg": "This has CORS enabled 🎈" })
-    })
+// app.get('/cors', (req, res) => {
+//     res.set('Access-Control-Allow-Origin', 'http://localhost:3000');
+//     res.send({ "msg": "This has CORS enabled 🎈" })
+//     })
 
 
 app.listen(8080, () => {
