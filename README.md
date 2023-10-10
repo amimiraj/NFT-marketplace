@@ -5,13 +5,7 @@ The NFT marketplace constitutes a sophisticated web application designed to faci
 
 
 
-**Used Technologies** : In the development, we have used html, tailwind which is a
-CSS framework and react.js for front-end and javascript, Solidity for backend.
-Moreover, we have used ERC721 which is a standard for representing ownership of
-non-fungible tokens, that is, where each token is unique, Hardhat for development
-environment and Goreli which is a Proof-of-Stake (PoS) testnet designed to simulate
-the behaviour of the Ethereum mainnet and Alchemy that offers a powerful
-blockchain or web3 development platform. Below, we are presenting and explaining
+**Used Technologies** : In the development, we have used Tailwind and React.js for the front-end, JavaScript, and Solidity for the backend. Moreover, we have employed ERC721, a standard for representing ownership of unique non-fungible tokens. Our development stack includes Hardhat for the development environment and Goreli, a Proof-of-Stake (PoS) testnet designed to simulate the behavior of the Ethereum mainnet. Additionally, we've leveraged Alchemy, which offers a powerful Blockchain and web3 development platform. Below, we are presenting and explaining
 a glimpse of it.
 
 
